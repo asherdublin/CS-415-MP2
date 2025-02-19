@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/UserInterface/WBP_HealthBar.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/UserInterface/red_heart_emoji_360-1.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/UserInterface/WBP_GameOver.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/Fab/Health_potion/elixirMat.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/Fab/Health_potion/health_potion.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/Fab/Health_potion/health_potion_texture_0.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/Fab/Health_potion/health_potion_texture_1.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/Fab/Health_potion/health_potion_texture_2.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/Fab/Health_potion/health_potion_texture_3.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/Fab/Health_potion/health_potion_texture_4.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/Fab/Health_potion/health_potion_texture_5.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/Fab/Health_potion/health_potion_texture_6.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/Fab/Health_potion/Plus.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPotion.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/UserInterface/WBP_CollectibleCount.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIControlloer.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/NewBlueprint.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/AICharacter/Pursuer_AIControlloer.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/AICharacter/BP_Pursuer.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/AICharacter/EAIState.uasset",
+				"C:/Users/asher/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset"
+			]
+		}
+	]
+}
